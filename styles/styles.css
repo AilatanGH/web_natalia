@@ -75,6 +75,7 @@ html, body {
 .presentation h3 {
   margin: 30px auto;
   font-size: 25px;
+  color: #61489a;
 }
 
 .presentation table {
@@ -82,24 +83,25 @@ html, body {
 }
 
 .name th {
-  border-bottom: 1px solid #666;
+  background-color: #d9d9d9;
   padding: 10px;
 }
 
 .skills {
   width: 25%;
   padding: 10px;
+  margin-right: 10px;
   text-align: right;
 }
 
 .bar {
-  background-color: #281560;
+  background-color: #61489a;
   text-align: center;
   color: white;
   padding: 5px;
 }
 .one {
-  width: 30%;
+  width: 20%;
 }
 
 .two {
@@ -107,18 +109,24 @@ html, body {
 }
 
 .three {
-  width: 80%;
+  width: 75%;
 }
 
 .four {
-  width: 60%;
-}
-
-.sponsor {
-
+  width: 50%;
 }
 
 .sponsor img {
   width: 250px;
   margin: 50px auto;
+}
+
+span {
+  color:#61489a;
+  font-weight: bold;
+}
+
+.presentation a {
+  text-decoration: none;
+  color: black;
 }

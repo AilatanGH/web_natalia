@@ -17,6 +17,18 @@ html, body {
   text-align: center;
 }
 
+.personalinfo h1 {
+  color: white;
+  font-size: 50px;
+}
+
+.personalinfo h2 {
+  color: white;
+  font-size: 20px;
+}
+
+
+
 /*rigth block*/
 .rigth {
   width: 50%;
